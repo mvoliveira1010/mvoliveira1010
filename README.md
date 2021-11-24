@@ -4,9 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/mvoliveira1010)](http://www.linkedin.com/in/mvoliveira1010)
 
 ## Sobre
-Olá, me chamo Marcos...
 - ‍🎓 Formado em Sistemas de Informação pela Faculdade Impacta;
 - 📊 Engenheiro de Dados
 - 👨‍💻 Desenvolvedor Python
 
+<!--
 - [Website](https://fagnerpsantos.dev/) 💻 - Em construção.
+-->
